@@ -17,3 +17,6 @@ Cargo.lock
 
 # Ignore file for editors like Helix
 .ignore
+
+# Makes the CLI work in the cloned repo
+dev/rustlings-repo.txt
